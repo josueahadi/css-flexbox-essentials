@@ -58,7 +58,7 @@ header {
 }
 
 .columns > * {
-    flex-shrink: 1;
+    flex: 1;
 }
 
 /* .columns {
