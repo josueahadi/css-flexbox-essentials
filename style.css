@@ -71,6 +71,11 @@ header {
         flex-direction: row;
         align-items: center ;
     }
+
+    .card:nth-child(2) {
+        background: pink;
+        align-self: flex-start;
+    }
 }
 
 .columns > * {
