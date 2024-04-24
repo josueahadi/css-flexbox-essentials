@@ -5,7 +5,7 @@
 * flex-grow
 * making even columns
 * flex-direction
-* 
+* problems people run into with just-content
 * 
 * 
 * 

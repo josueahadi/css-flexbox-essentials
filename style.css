@@ -1,16 +1,24 @@
 .nav-list {
     display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     gap: 1rem;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
 
     margin: 0;
     padding: 0;
     list-style: none;
 }
 
+@media (min-width: 750px) {
+    .nav-list {
+        flex-direction: row;
+    }
+}
+
 .nav-list li {
-    /* flex-grow: 1;
-    flex-shrink: 1; */
+    flex-grow: 0;
+    flex-shrink: 1;
 }
 
 
