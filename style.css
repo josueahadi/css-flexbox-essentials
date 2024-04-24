@@ -1,3 +1,19 @@
+.nav-list {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.nav-list li {
+    /* flex-grow: 1;
+    flex-shrink: 1; */
+}
+
+
 /* to help visualize */
 header {
     --border-width: 5px;
