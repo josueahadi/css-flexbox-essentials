@@ -4,7 +4,7 @@
 * flex-shrink
 * flex-grow
 * making even columns
-* 
+* flex-direction
 * 
 * 
 * 
